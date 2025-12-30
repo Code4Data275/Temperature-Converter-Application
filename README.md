@@ -46,7 +46,7 @@ The user will enter the temperature and select the temperature type from the dro
 - Add an @import to your CSS file that imports Tailwind CSS 
 - Run your build process with npm run dev 
 
-### Commands
+## Commands
 - npm create vite@latest
 - npm install
 - npm install tailwindcss @tailwindcss/vite
